@@ -1,0 +1,29 @@
+/*?----------------------------------------------------------------------------------------------------*/
+
+/** Inicio music */
+
+.body-music {
+    position: absolute;
+    top: 2.6%;
+    right: 10.6%;
+}
+
+.body-music-icon {
+    font-size: 5rem;
+    color: #ddd;
+    cursor: pointer;
+}
+
+/** Fin music */
+
+/** Inicio responsive */
+
+@media screen and (max-width: 1450px) {
+    .body-music {
+        right: 16.6%;
+    }
+}
+
+/** Fin responsive */
+
+/*?----------------------------------------------------------------------------------------------------*/

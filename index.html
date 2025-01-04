@@ -1,0 +1,299 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="keywords" content="lol, league of legends, leaguemanager, bot">
+    <meta name="description" content="Esta es una página de un bot de partidas personalizadas de League of legends.">
+    <meta name="author" content="URU_Kody">
+    <meta name="robots" content="index">
+
+    <link rel="stylesheet" type="text/css" href="01-css/normalize.css" />
+    <link rel="stylesheet" type="text/css" href="01-css/general.css" />
+    <link rel="stylesheet" type="text/css" href="01-css/header.css" />
+    <link rel="stylesheet" type="text/css" href="01-css/footer.css" />
+    <link rel="stylesheet" type="text/css" href="01-css/sidebar.css" />
+    <link rel="stylesheet" type="text/css" href="01-css/socialmedia.css" />
+    <link rel="stylesheet" type="text/css" href="01-css/ranking.css" />
+    <link rel="stylesheet" type="text/css" href="01-css/reload.css" />
+    <link rel="stylesheet" type="text/css" href="01-css/yournick.css" />
+    <link rel="stylesheet" type="text/css" href="01-css/jugadores.css" />
+    <link rel="stylesheet" type="text/css" href="01-css/historial.css" />
+    <link rel="stylesheet" type="text/css" href="01-css/informacion.css" />
+    <link rel="stylesheet" type="text/css" href="01-css/music.css" />
+
+    <link rel="icon" type="favicon/x-icon" href="03-assets/img/01-logo.png" />
+
+    <title>LeagueManager</title>
+
+</head>
+
+<body>
+
+    <!-- Inicio página 1 -->
+    <div class="layout">
+
+        <!-- Estrellas -->
+        <div class='body-stars'>
+            <div id='stars'></div>
+            <div id='stars2'></div>
+            <div id='stars3'></div>
+        </div>
+
+        <!-- Reload button -->
+        <div class="body-reload">
+            <i class="body-reload-icon fa-solid fa-rotate"></i>
+        </div>
+
+        <div class="body-yournick">
+            <i class="body-yournick-icon fa-brands fa-odnoklassniki"></i>
+        </div>
+
+        <div class="body-music">
+            <i class="body-music-icon fa-solid fa-play"></i>
+        </div>
+
+        <div class="body-yournick-container">
+            <div class="body-yournick-div">
+                <span class="body-yournick-span1">¿CUAL ES TU NICK?</span>
+                <span class="body-yournick-span2">Este aparecerá resaltado entre los demás en la
+                    sección "ranking", se mantendrá si recargas la página, escríbelo tal cual.</span>
+                <span class="body-yournick-span3">Ejemplo: <span
+                        class="body-yournick-span3 body-yournick-span3-color">Leafcutter Bee#LAS</span></span>
+                <input type="text" class="body-yournick-input" id="yournick" placeholder="Escribe tu nick...">
+                <div class="body-yournick-buttons">
+                    <button class="body-yournick-button1">CANCELAR</button>
+                    <button class="body-yournick-button2">CONFIRMAR</button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Header -->
+        <header class='header-group'>
+            <div class='header-box'>
+                <div>
+                    <img class='header-logo' src='03-assets/img/01-logo.png' alt='Logo'></img>
+                </div>
+                <h1 class='header-title'>LeagueManager</h1>
+            </div>
+        </header>
+
+        <!-- Footer -->
+        <div class='footer-center'>
+            <div class='footer-box'>
+                <p class='footer-text'>LeagueManager 2025 © v3.0</p>
+                <p class='footer-text'>Desarrollado por
+                    <a class='footer-text-dev' href="https://www.youtube.com/@urukody5339/videos" target='_blank'>
+                        URU Kody</a>
+                </p>
+            </div>
+        </div>
+
+        <!-- Sidebar -->
+        <div class="sidebar-container">
+            <div class="sidebar-div">
+                <span class="sidebar-arrow">➤</span>
+                <div class="sidebar-words">
+                    <div class="sidebar-words-div sidebar-words-div1">
+                        <i class="fa-solid fa-ranking-star sidebar-word-ranking"></i>
+                        <p class="sidebar-words-p">RANKING</p>
+                    </div>
+                    <div class="sidebar-words-div">
+                        <i class="fa-solid fa-people-group sidebar-word-jugadores"></i>
+                        <p class="sidebar-words-p">JUGADORES</p>
+                    </div>
+                    <div class="sidebar-words-div">
+                        <i class="fa-solid fa-clipboard-user sidebar-word-historial"></i>
+                        <p class="sidebar-words-p">HISTORIAL</p>
+                    </div>
+                    <div class="sidebar-words-div">
+                        <i class="fa-solid fa-question sidebar-word-informacion"></i>
+                        <p class="sidebar-words-p">INFORMACIÓN</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Socialmedia -->
+        <div class="socialmedia-container">
+            <div class="socialmedia-div">
+                <span class="socialmedia-arrow">➤</span>
+                <div class="socialmedia-words">
+                    <div class="socialmedia-words-div socialmedia-words-div1">
+                        <a href="https://www.twitch.tv/eljotita" target="_blank" class="socialmedia-words-div-a">
+                            <i class="fa-brands fa-twitch"></i>
+                        </a>
+                        <p class="socialmedia-words-p">TWITCH</p>
+                    </div>
+                    <div class="socialmedia-words-div">
+                        <a href="https://discord.gg/PwnN9Qyd8H" target="_blank" class="socialmedia-words-div-a">
+                            <i class="fa-brands fa-discord"></i>
+                        </a>
+                        <p class="socialmedia-words-p">DISCORD</p>
+                    </div>
+                    <div class="socialmedia-words-div">
+                        <a href="https://www.instagram.com/jotajotun/" target="_blank" class="socialmedia-words-div-a">
+                            <i class="fa-brands fa-instagram"></i>
+                        </a>
+                        <p class="socialmedia-words-p">INSTAGRAM</p>
+                    </div>
+                    <div class="socialmedia-words-div">
+                        <a href="https://www.youtube.com/@eljotita/videos" target="_blank"
+                            class="socialmedia-words-div-a">
+                            <i class="fa-brands fa-youtube"></i>
+                        </a>
+                        <p class="socialmedia-words-p">YOUTUBE</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Contenedor ranking -->
+        <div class="ranking-containers">
+            <section class="ranking-container-unique">
+                <article class="ranking-container-nick-unique article-unique" id="ranking-order-nombre">
+                    <h3 class="ranking-h3-unique">NOMBRE</h3>
+                </article>
+                <article class="ranking-container-elo-unique article-unique" id="ranking-order-elo">
+                    <h3 class="ranking-h3-unique">ELO</h3>
+                </article>
+                <article class="ranking-container-puesto-unique article-unique" id="ranking-order-ranking">
+                    <h3 class="ranking-h3-unique">PUESTO</h3>
+                </article>
+                <article class="ranking-container-racha-unique article-unique" id="ranking-order-racha">
+                    <h3 class="ranking-h3-unique">RACHA</h3>
+                </article>
+                <article class="ranking-container-victorias-unique article-unique" id="ranking-order-victorias">
+                    <h3 class="ranking-h3-unique">VICTORIAS</h3>
+                </article>
+                <article class="ranking-container-derrotas-unique article-unique" id="ranking-order-derrotas">
+                    <h3 class="ranking-h3-unique">DERROTAS</h3>
+                </article>
+                <article class="ranking-container-winrate-unique article-unique" id="ranking-order-winrate">
+                    <h3 class="ranking-h3-unique">WINRATE</h3>
+                </article>
+            </section>
+
+            <!-- Contenedor ranking lista jugadores -->
+            <div id="ranking-container-div" class="ranking-container-div">
+
+            </div>
+
+        </div>
+
+        <!-- Contenedor jugadores -->
+        <div class="jugadores-containers">
+            <h1 class="jugadores-h1">PRÓXIMAMENTE</h1>
+        </div>
+
+        <!-- Contenedor historial -->
+        <div class="historial-containers">
+            <h1 class="historial-h1">PRÓXIMAMENTE</h1>
+        </div>
+
+        <!-- Contenedor información -->
+        <div class="informacion-containers">
+            <!-- Contenedor información 2 -->
+            <div class="informacion-container-div">
+                <div class="informacion-div informacion-div-1">
+                    <span class="informacion-titulo informacion-titulo-1">¿QUE SON LAS RARAMS?</span>
+                    <p class="informacion-desc informacion-desc-1">Son partidas de ARAM personalizadas creadas por el
+                        streamer <a href="https://www.twitch.tv/eljotita" class="informacion-desc-1-a"
+                            target="_blank">eljotita</a> con un sistema de
+                        ranking.</p>
+                </div>
+                <div class="informacion-div informacion-div-2">
+                    <span class="informacion-titulo informacion-titulo-2">¿POR QUE CON SISTEMA "RANKING"?</span>
+                    <p class="informacion-desc informacion-desc-2">Estas partidas están gestionadas por un bot
+                        programado por el propio streamer, al ganar una partida obtienes elo y compites con
+                        los otros jugadores.</p>
+                </div>
+                <div class="informacion-div informacion-div-3">
+                    <span class="informacion-titulo informacion-titulo-3">¿PUEDO ELEGIR MI CAMPEON?</span>
+                    <p class="informacion-desc informacion-desc-3">No, es similar a un ARAM tradicional, pero con
+                        ranking.</p>
+                </div>
+                <div class="informacion-div informacion-div-4">
+                    <span class="informacion-titulo informacion-titulo-4">¿COMO PARTICIPO?</span>
+                    <p class="informacion-desc informacion-desc-4">Para comenzar, escribe <span
+                            class="informacion-bold-text">!registro</span> en el chat de Twitch
+                        y sigue los dos sencillos pasos para registrarte, una vez registrado, cuando el streamer inicie
+                        una partida, podrás escribir <span class="informacion-bold-text">!lol</span> para entrar en la
+                        lista de participantes, luego, el bot
+                        seleccionará a 10 jugadores de la lista formando dos equipos
+                        automáticamente, estos equipos serán invitados a una partida donde competirán entre sí, al
+                        finalizar la partida, el streamer anunciará al equipo ganador el cual recibirá elo, mientras que
+                        el equipo perdedor perderá elo.</p>
+                </div>
+                <div class="informacion-div informacion-div-5">
+                    <span class="informacion-titulo informacion-titulo-5">¿SOLO JUEGAN LOS PRIMEROS 10 ANOTARSE?</span>
+                    <p class="informacion-desc informacion-desc-5">No, no importa el orden en que llegues, los 10
+                        jugadores serán seleccionados aleatoriamente entre los que ingresaron, priorizando a aquellos
+                        que no hayan jugado en las
+                        partidas anteriores.</p>
+                </div>
+                <div class="informacion-div informacion-div-6">
+                    <span class="informacion-titulo informacion-titulo-6">¿COMO PUEDO VER MI ELO/PUESTO?</span>
+                    <p class="informacion-desc informacion-desc-6">Puedes consultar tu elo tanto en esta página como en
+                        el chat de Twitch escribiendo <span class="informacion-bold-text">!rank</span></p>
+                </div>
+                <div class="informacion-div informacion-div-7">
+                    <span class="informacion-titulo informacion-titulo-7">¿CUANTO ELO GANO/PIERDO POR PARTIDA?</span>
+                    <p class="informacion-desc informacion-desc-7">Aproximadamente 10, puede variar dependiendo de
+                        cuanto elo tengas y del elo de la partida.</p>
+                </div>
+                <div class="informacion-div informacion-div-8">
+                    <span class="informacion-titulo informacion-titulo-8">¿LOS EQUIPOS SON ALEATORIOS?</span>
+                    <p class="informacion-desc informacion-desc-8">No, el bot crea los equipos asegurando que ambos
+                        tengan un elo similar.</p>
+                </div>
+                <div class="informacion-div informacion-div-9">
+                    <span class="informacion-titulo informacion-titulo-9">¿HAY PENALIZACION POR ABANDONAR UNA
+                        PARTIDA?</span>
+                    <p class="informacion-desc informacion-desc-9">Sí, para mantener la competencia sana, puede haber
+                        penalizaciones por abandonar la partida.</p>
+                </div>
+                <div class="informacion-div informacion-div-10">
+                    <span class="informacion-titulo informacion-titulo-10">EXTRAS:</span>
+                    <p class="informacion-desc informacion-desc-especial informacion-desc-10">Algún que otro finde, se
+                        organizan torneos con
+                        premios en RP.</p>
+                    <p class="informacion-desc informacion-desc-especial informacion-desc-10">Al jugar, ganas <span
+                            class="informacion-bold-text">!ap</span>, el
+                        cual puedes usarlo para
+                        canjear diferentes cosas, por ejemplo:</p>
+                    <p class="informacion-desc informacion-desc-especial informacion-desc-10"><span
+                            class="informacion-bold-text">!m</span> - Lanza el sonido de la maestría. - Coste: <span
+                            class="informacion-bold-text">10ap</span></p>
+                    <p class="informacion-desc informacion-desc-especial informacion-desc-10">
+                        <span class="informacion-bold-text">!d</span> - Envía un sonido de "derrota". - Coste: <span
+                            class="informacion-bold-text">10ap</span>
+                    </p>
+                    <p class="informacion-desc informacion-desc-especial informacion-desc-10"><span
+                            class="informacion-bold-text">!ez</span> - Envía un sonido de "easy". - Coste: <span
+                            class="informacion-bold-text">20ap</span></p>
+                    <p
+                        class="informacion-desc informacion-desc-especial informacion-desc-10 informacion-desc-10-especial">
+                        <span class="informacion-bold-text">!w @nombre</span> - Quedas impactado por el winrate de un
+                        jugador si es menor a 50% - Coste <span class="informacion-bold-text">100ap</span></p>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <!-- Fin página 1 -->
+
+    <!-- Inicio Scripts -->
+
+    <script src="https://kit.fontawesome.com/a3975dc31c.js" crossorigin="anonymous"></script>
+    <script src="02-js/main.js" defer> </script>
+
+    <!-- Fin Scripts -->
+
+</body>
+
+</html>

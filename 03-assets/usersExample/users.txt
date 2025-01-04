@@ -1,0 +1,1799 @@
+[
+  {
+    "id": 1,
+    "name": "URU Kody#LAS",
+    "elo_raram": 1315,
+    "rank": 2,
+    "racha": 2,
+    "victorias": 10,
+    "derrotas": 4
+  },
+  {
+    "id": 5,
+    "name": "Leafcutter Bee#LAS",
+    "elo_raram": 1245,
+    "rank": 13,
+    "racha": -5,
+    "victorias": 12,
+    "derrotas": 6
+  },
+  {
+    "id": 2,
+    "name": "Wolfssj5#LAS",
+    "elo_raram": 1296,
+    "rank": 4,
+    "racha": 1,
+    "victorias": 28,
+    "derrotas": 13
+  },
+  {
+    "id": 3,
+    "name": "Cahuaya7w7r#LAS",
+    "elo_raram": 1285,
+    "rank": 6,
+    "racha": 13,
+    "victorias": 98,
+    "derrotas": 90
+  },
+  {
+    "id": 4,
+    "name": "Nitram#LAS",
+    "elo_raram": 1253,
+    "rank": 11,
+    "racha": -2,
+    "victorias": 13,
+    "derrotas": 12
+  },
+  {
+    "id": 6,
+    "name": "Prueba1#LAS",
+    "elo_raram": 1200,
+    "rank": 31,
+    "racha": 0,
+    "victorias": 10,
+    "derrotas": 5
+  },
+  {
+    "id": 7,
+    "name": "Prueba2#LAS",
+    "elo_raram": 1150,
+    "rank": 53,
+    "racha": -3,
+    "victorias": 8,
+    "derrotas": 12
+  },
+  {
+    "id": 8,
+    "name": "Prueba3#LAS",
+    "elo_raram": 1300,
+    "rank": 3,
+    "racha": -1,
+    "victorias": 25,
+    "derrotas": 20
+  },
+  {
+    "id": 9,
+    "name": "Prueba4#LAS",
+    "elo_raram": 1220,
+    "rank": 24,
+    "racha": 2,
+    "victorias": 12,
+    "derrotas": 8
+  },
+  {
+    "id": 10,
+    "name": "Prueba5#LAS",
+    "elo_raram": 1180,
+    "rank": 41,
+    "racha": -4,
+    "victorias": 5,
+    "derrotas": 10
+  },{
+    "id": 11,
+    "name": "Prueba6#LAS",
+    "elo_raram": 1160,
+    "rank": 51,
+    "racha": 1,
+    "victorias": 18,
+    "derrotas": 15
+  },
+  {
+    "id": 12,
+    "name": "Prueba7#LAS",
+    "elo_raram": 1210,
+    "rank": 27,
+    "racha": -2,
+    "victorias": 25,
+    "derrotas": 20
+  },
+  {
+    "id": 13,
+    "name": "Prueba8#LAS",
+    "elo_raram": 1125,
+    "rank": 60,
+    "racha": -5,
+    "victorias": 12,
+    "derrotas": 18
+  },
+  {
+    "id": 14,
+    "name": "Prueba9#LAS",
+    "elo_raram": 1288,
+    "rank": 5,
+    "racha": 3,
+    "victorias": 30,
+    "derrotas": 8
+  },
+  {
+    "id": 15,
+    "name": "Prueba10#LAS",
+    "elo_raram": 1199,
+    "rank": 33,
+    "racha": 0,
+    "victorias": 15,
+    "derrotas": 15
+  },
+  {
+    "id": 16,
+    "name": "Prueba11#LAS",
+    "elo_raram": 1235,
+    "rank": 16,
+    "racha": 4,
+    "victorias": 22,
+    "derrotas": 10
+  },
+  {
+    "id": 17,
+    "name": "Prueba12#LAS",
+    "elo_raram": 1140,
+    "rank": 57,
+    "racha": -3,
+    "victorias": 15,
+    "derrotas": 15
+  },
+  {
+    "id": 18,
+    "name": "Prueba13#LAS",
+    "elo_raram": 1276,
+    "rank": 8,
+    "racha": 6,
+    "victorias": 28,
+    "derrotas": 12
+  },
+  {
+    "id": 19,
+    "name": "Prueba14#LAS",
+    "elo_raram": 1322,
+    "rank": 1,
+    "racha": 5,
+    "victorias": 33,
+    "derrotas": 10
+  },
+  {
+    "id": 20,
+    "name": "Prueba15#LAS",
+    "elo_raram": 1080,
+    "rank": 70,
+    "racha": -1,
+    "victorias": 1,
+    "derrotas": 99
+  },
+  {
+    "id": 21,
+    "name": "Prueba16#LAS",
+    "elo_raram": 1050,
+    "rank": 72,
+    "racha": -1,
+    "victorias": 0,
+    "derrotas": 53
+  },
+  {
+    "id": 22,
+    "name": "Prueba17#LAS",
+    "elo_raram": 1180,
+    "rank": 42,
+    "racha": -1,
+    "victorias": 2,
+    "derrotas": 4
+  },
+  {
+    "id": 23,
+    "name": "Pruebas#LAS",
+    "elo_raram": 1047,
+    "rank": 73,
+    "racha": 1,
+    "victorias": 1,
+    "derrotas": 1
+  },
+  {
+    "id": 24,
+    "name": "Pruebaasd#LAS",
+    "elo_raram": 1037,
+    "rank": 74,
+    "racha": -1,
+    "victorias": 2,
+    "derrotas": 2
+  },
+  {
+    "id": 25,
+    "name": "Eaeaea#LAS",
+    "elo_raram": 1021,
+    "rank": 75,
+    "racha": -1,
+    "victorias": 0,
+    "derrotas": 1
+  },
+  {
+    "id": 26,
+    "name": "Sawsawsa#LAS",
+    "elo_raram": 1015,
+    "rank": 76,
+    "racha": 1,
+    "victorias": 1,
+    "derrotas": 3
+  },
+  {
+    "id": 27,
+    "name": "Tersawsw#LAS",
+    "elo_raram": 1013,
+    "rank": 77,
+    "racha": 2,
+    "victorias": 3,
+    "derrotas": 2
+  },
+  {
+    "id": 28,
+    "name": "NuevoUsuario1#LAS",
+    "elo_raram": 1200,
+    "rank": 32,
+    "racha": 0,
+    "victorias": 4,
+    "derrotas": 4
+  },
+  {
+    "id": 29,
+    "name": "NuevoUsuario2#LAS",
+    "elo_raram": 1225,
+    "rank": 20,
+    "racha": 1,
+    "victorias": 4,
+    "derrotas": 2
+  },
+  {
+    "id": 30,
+    "name": "NuevoUsuario3#LAS",
+    "elo_raram": 1170,
+    "rank": 47,
+    "racha": -1,
+    "victorias": 2,
+    "derrotas": 4
+  },
+  {
+    "id": 31,
+    "name": "NuevoUsuario4#LAS",
+    "elo_raram": 1238,
+    "rank": 15,
+    "racha": 2,
+    "victorias": 3,
+    "derrotas": 4
+  },
+  {
+    "id": 32,
+    "name": "NuevoUsuario5#LAS",
+    "elo_raram": 1250,
+    "rank": 12,
+    "racha": -2,
+    "victorias": 2,
+    "derrotas": 3
+  },
+  {
+    "id": 33,
+    "name": "NuevoUsuario6#LAS",
+    "elo_raram": 1185,
+    "rank": 40,
+    "racha": 1,
+    "victorias": 4,
+    "derrotas": 2
+  },
+  {
+    "id": 34,
+    "name": "NuevoUsuario7#LAS",
+    "elo_raram": 1156,
+    "rank": 52,
+    "racha": -1,
+    "victorias": 3,
+    "derrotas": 3
+  },
+  {
+    "id": 35,
+    "name": "NuevoUsuario8#LAS",
+    "elo_raram": 1266,
+    "rank": 9,
+    "racha": 2,
+    "victorias": 4,
+    "derrotas": 1
+  },
+  {
+    "id": 36,
+    "name": "NuevoUsuario9#LAS",
+    "elo_raram": 1222,
+    "rank": 22,
+    "racha": -2,
+    "victorias": 3,
+    "derrotas": 4
+  },
+  {
+    "id": 37,
+    "name": "NuevoUsuario10#LAS",
+    "elo_raram": 1100,
+    "rank": 66,
+    "racha": 1,
+    "victorias": 2,
+    "derrotas": 4
+  },
+  {
+    "id": 38,
+    "name": "NuevoUsuario11#LAS",
+    "elo_raram": 1150,
+    "rank": 54,
+    "racha": -1,
+    "victorias": 4,
+    "derrotas": 1
+  },
+  {
+    "id": 39,
+    "name": "NuevoUsuario12#LAS",
+    "elo_raram": 1088,
+    "rank": 69,
+    "racha": 2,
+    "victorias": 3,
+    "derrotas": 3
+  },
+  {
+    "id": 40,
+    "name": "NuevoUsuario13#LAS",
+    "elo_raram": 1134,
+    "rank": 59,
+    "racha": -2,
+    "victorias": 2,
+    "derrotas": 2
+  },
+  {
+    "id": 41,
+    "name": "NuevoUsuario14#LAS",
+    "elo_raram": 1067,
+    "rank": 71,
+    "racha": 1,
+    "victorias": 2,
+    "derrotas": 1
+  },
+  {
+    "id": 42,
+    "name": "NuevoUsuario15#LAS",
+    "elo_raram": 1230,
+    "rank": 19,
+    "racha": -1,
+    "victorias": 4,
+    "derrotas": 2
+  },
+  {
+    "id": 43,
+    "name": "NuevoUsuario16#LAS",
+    "elo_raram": 1199,
+    "rank": 34,
+    "racha": 2,
+    "victorias": 3,
+    "derrotas": 1
+  },
+  {
+    "id": 44,
+    "name": "NuevoUsuario17#LAS",
+    "elo_raram": 1165,
+    "rank": 49,
+    "racha": -2,
+    "victorias": 2,
+    "derrotas": 4
+  },
+  {
+    "id": 45,
+    "name": "NuevoUsuario18#LAS",
+    "elo_raram": 1212,
+    "rank": 26,
+    "racha": 1,
+    "victorias": 3,
+    "derrotas": 2
+  },
+  {
+    "id": 46,
+    "name": "NuevoUsuario19#LAS",
+    "elo_raram": 1180,
+    "rank": 43,
+    "racha": -1,
+    "victorias": 3,
+    "derrotas": 4
+  },
+  {
+    "id": 47,
+    "name": "NuevoUsuario20#LAS",
+    "elo_raram": 1122,
+    "rank": 62,
+    "racha": 2,
+    "victorias": 1,
+    "derrotas": 3
+  },
+  {
+    "id": 48,
+    "name": "NuevoUsuario21#LAS",
+    "elo_raram": 1167,
+    "rank": 48,
+    "racha": -2,
+    "victorias": 3,
+    "derrotas": 3
+  },
+  {
+    "id": 49,
+    "name": "NuevoUsuario22#LAS",
+    "elo_raram": 1093,
+    "rank": 68,
+    "racha": 1,
+    "victorias": 17,
+    "derrotas": 32
+  },
+  {
+    "id": 50,
+    "name": "NuevoUsuario23#LAS",
+    "elo_raram": 1280,
+    "rank": 7,
+    "racha": -1,
+    "victorias": 2,
+    "derrotas": 4
+  },
+  {
+    "id": 51,
+    "name": "NuevoUsuario24#LAS",
+    "elo_raram": 1109,
+    "rank": 65,
+    "racha": 2,
+    "victorias": 3,
+    "derrotas": 4
+  },
+  {
+    "id": 52,
+    "name": "NuevoUsuario25#LAS",
+    "elo_raram": 1098,
+    "rank": 67,
+    "racha": -2,
+    "victorias": 2,
+    "derrotas": 1
+  },
+  {
+    "id": 53,
+    "name": "NuevoUsuario26#LAS",
+    "elo_raram": 1201,
+    "rank": 30,
+    "racha": 1,
+    "victorias": 3,
+    "derrotas": 3
+  },
+  {
+    "id": 54,
+    "name": "NuevoUsuario27#LAS",
+    "elo_raram": 1145,
+    "rank": 56,
+    "racha": -1,
+    "victorias": 4,
+    "derrotas": 2
+  },
+  {
+    "id": 55,
+    "name": "NuevoUsuario28#LAS",
+    "elo_raram": 1112,
+    "rank": 64,
+    "racha": 2,
+    "victorias": 3,
+    "derrotas": 1
+  },
+  {
+    "id": 56,
+    "name": "NuevoUsuario29#LAS",
+    "elo_raram": 1178,
+    "rank": 44,
+    "racha": -2,
+    "victorias": 2,
+    "derrotas": 4
+  },
+  {
+    "id": 57,
+    "name": "NuevoUsuario30#LAS",
+    "elo_raram": 1223,
+    "rank": 21,
+    "racha": 1,
+    "victorias": 3,
+    "derrotas": 2
+  },
+  {
+    "id": 58,
+    "name": "NuevoUsuario31#LAS",
+    "elo_raram": 1187,
+    "rank": 39,
+    "racha": -1,
+    "victorias": 2,
+    "derrotas": 3
+  },
+  {
+    "id": 59,
+    "name": "NuevoUsuario32#LAS",
+    "elo_raram": 1240,
+    "rank": 14,
+    "racha": 2,
+    "victorias": 4,
+    "derrotas": 1
+  },
+  {
+    "id": 60,
+    "name": "NuevoUsuario33#LAS",
+    "elo_raram": 1195,
+    "rank": 35,
+    "racha": -2,
+    "victorias": 3,
+    "derrotas": 4
+  },
+  {
+    "id": 61,
+    "name": "NuevoUsuario34#LAS",
+    "elo_raram": 1138,
+    "rank": 58,
+    "racha": 1,
+    "victorias": 4,
+    "derrotas": 2
+  },
+  {
+    "id": 62,
+    "name": "NuevoUsuario35#LAS",
+    "elo_raram": 1115,
+    "rank": 63,
+    "racha": -1,
+    "victorias": 3,
+    "derrotas": 3
+  },
+  {
+    "id": 63,
+    "name": "NuevoUsuario36#LAS",
+    "elo_raram": 1206,
+    "rank": 29,
+    "racha": 2,
+    "victorias": 2,
+    "derrotas": 1
+  },
+  {
+    "id": 64,
+    "name": "NuevoUsuario37#LAS",
+    "elo_raram": 1176,
+    "rank": 45,
+    "racha": -2,
+    "victorias": 4,
+    "derrotas": 2
+  },
+  {
+    "id": 65,
+    "name": "NuevoUsuario38#LAS",
+    "elo_raram": 1232,
+    "rank": 18,
+    "racha": 1,
+    "victorias": 3,
+    "derrotas": 4
+  },
+  {
+    "id": 66,
+    "name": "NuevoUsuario39#LAS",
+    "elo_raram": 1190,
+    "rank": 36,
+    "racha": -1,
+    "victorias": 2,
+    "derrotas": 3
+  },
+  {
+    "id": 67,
+    "name": "NuevoUsuario40#LAS",
+    "elo_raram": 1257,
+    "rank": 10,
+    "racha": 2,
+    "victorias": 1,
+    "derrotas": 4
+  },
+  {
+    "id": 68,
+    "name": "NuevoUsuario41#LAS",
+    "elo_raram": 1162,
+    "rank": 50,
+    "racha": -2,
+    "victorias": 2,
+    "derrotas": 2
+  },
+  {
+    "id": 69,
+    "name": "NuevoUsuario42#LAS",
+    "elo_raram": 1188,
+    "rank": 38,
+    "racha": 1,
+    "victorias": 1,
+    "derrotas": 3
+  },
+  {
+    "id": 70,
+    "name": "NuevoUsuario43#LAS",
+    "elo_raram": 1217,
+    "rank": 25,
+    "racha": -1,
+    "victorias": 4,
+    "derrotas": 2
+  },
+  {
+    "id": 71,
+    "name": "NuevoUsuario44#LAS",
+    "elo_raram": 1147,
+    "rank": 55,
+    "racha": 2,
+    "victorias": 3,
+    "derrotas": 1
+  },
+  {
+    "id": 72,
+    "name": "NuevoUsuario45#LAS",
+    "elo_raram": 1125,
+    "rank": 61,
+    "racha": -2,
+    "victorias": 2,
+    "derrotas": 4
+  },
+  {
+    "id": 73,
+    "name": "NuevoUsuario46#LAS",
+    "elo_raram": 1208,
+    "rank": 28,
+    "racha": 1,
+    "victorias": 3,
+    "derrotas": 2
+  },
+  {
+    "id": 74,
+    "name": "NuevoUsuario47#LAS",
+    "elo_raram": 1173,
+    "rank": 46,
+    "racha": -1,
+    "victorias": 3,
+    "derrotas": 3
+  },
+  {
+    "id": 75,
+    "name": "NuevoUsuario48#LAS",
+    "elo_raram": 1235,
+    "rank": 17,
+    "racha": 2,
+    "victorias": 4,
+    "derrotas": 1
+  },
+  {
+    "id": 76,
+    "name": "NuevoUsuario49#LAS",
+    "elo_raram": 1189,
+    "rank": 37,
+    "racha": -2,
+    "victorias": 3,
+    "derrotas": 4
+  },
+  {
+    "id": 77,
+    "name": "NuevoUsuario50#LAS",
+    "elo_raram": 1221,
+    "rank": 23,
+    "racha": 1,
+    "victorias": 2,
+    "derrotas": 3
+  },{
+    "id": 78,
+    "name": "NuevoUsuario78#LAS",
+    "elo_raram": 1012,
+    "rank": 78,
+    "racha": 6,
+    "victorias": 18,
+    "derrotas": 10
+  },
+  {
+    "id": 79,
+    "name": "NuevoUsuario79#LAS",
+    "elo_raram": 1006,
+    "rank": 79,
+    "racha": 2,
+    "victorias": 15,
+    "derrotas": 8
+  },
+  {
+    "id": 80,
+    "name": "NuevoUsuario80#LAS",
+    "elo_raram": 1000,
+    "rank": 80,
+    "racha": -3,
+    "victorias": 12,
+    "derrotas": 18
+  },
+  {
+    "id": 81,
+    "name": "NuevoUsuario81#LAS",
+    "elo_raram": 994,
+    "rank": 81,
+    "racha": 1,
+    "victorias": 10,
+    "derrotas": 10
+  },
+  {
+    "id": 82,
+    "name": "NuevoUsuario82#LAS",
+    "elo_raram": 988,
+    "rank": 82,
+    "racha": -2,
+    "victorias": 5,
+    "derrotas": 15
+  },
+  {
+    "id": 83,
+    "name": "NuevoUsuario83#LAS",
+    "elo_raram": 982,
+    "rank": 83,
+    "racha": 0,
+    "victorias": 8,
+    "derrotas": 12
+  },
+  {
+    "id": 84,
+    "name": "NuevoUsuario84#LAS",
+    "elo_raram": 976,
+    "rank": 84,
+    "racha": 3,
+    "victorias": 13,
+    "derrotas": 6
+  },
+  {
+    "id": 85,
+    "name": "NuevoUsuario85#LAS",
+    "elo_raram": 970,
+    "rank": 85,
+    "racha": -1,
+    "victorias": 9,
+    "derrotas": 9
+  },
+  {
+    "id": 86,
+    "name": "NuevoUsuario86#LAS",
+    "elo_raram": 964,
+    "rank": 86,
+    "racha": 2,
+    "victorias": 11,
+    "derrotas": 7
+  },
+  {
+    "id": 87,
+    "name": "NuevoUsuario87#LAS",
+    "elo_raram": 958,
+    "rank": 87,
+    "racha": -2,
+    "victorias": 7,
+    "derrotas": 13
+  },
+  {
+    "id": 88,
+    "name": "NuevoUsuario88#LAS",
+    "elo_raram": 952,
+    "rank": 88,
+    "racha": 1,
+    "victorias": 12,
+    "derrotas": 8
+  },
+  {
+    "id": 89,
+    "name": "NuevoUsuario89#LAS",
+    "elo_raram": 946,
+    "rank": 89,
+    "racha": -3,
+    "victorias": 6,
+    "derrotas": 16
+  },
+  {
+    "id": 90,
+    "name": "NuevoUsuario90#LAS",
+    "elo_raram": 940,
+    "rank": 90,
+    "racha": 0,
+    "victorias": 10,
+    "derrotas": 10
+  },
+  {
+    "id": 91,
+    "name": "NuevoUsuario91#LAS",
+    "elo_raram": 934,
+    "rank": 91,
+    "racha": 3,
+    "victorias": 14,
+    "derrotas": 6
+  },
+  {
+    "id": 92,
+    "name": "NuevoUsuario92#LAS",
+    "elo_raram": 928,
+    "rank": 92,
+    "racha": -1,
+    "victorias": 9,
+    "derrotas": 9
+  },
+  {
+    "id": 93,
+    "name": "NuevoUsuario93#LAS",
+    "elo_raram": 922,
+    "rank": 93,
+    "racha": 2,
+    "victorias": 13,
+    "derrotas": 7
+  },
+  {
+    "id": 94,
+    "name": "NuevoUsuario94#LAS",
+    "elo_raram": 916,
+    "rank": 94,
+    "racha": -2,
+    "victorias": 6,
+    "derrotas": 13
+  },
+  {
+    "id": 95,
+    "name": "NuevoUsuario95#LAS",
+    "elo_raram": 910,
+    "rank": 95,
+    "racha": 1,
+    "victorias": 11,
+    "derrotas": 8
+  },
+  {
+    "id": 96,
+    "name": "NuevoUsuario96#LAS",
+    "elo_raram": 904,
+    "rank": 96,
+    "racha": -3,
+    "victorias": 5,
+    "derrotas": 16
+  },
+  {
+    "id": 97,
+    "name": "NuevoUsuario97#LAS",
+    "elo_raram": 898,
+    "rank": 97,
+    "racha": 0,
+    "victorias": 8,
+    "derrotas": 12
+  },
+  {
+    "id": 98,
+    "name": "NuevoUsuario98#LAS",
+    "elo_raram": 892,
+    "rank": 98,
+    "racha": 3,
+    "victorias": 14,
+    "derrotas": 6
+  },
+  {
+    "id": 99,
+    "name": "NuevoUsuario99#LAS",
+    "elo_raram": 886,
+    "rank": 99,
+    "racha": -1,
+    "victorias": 9,
+    "derrotas": 9
+  },
+  {
+    "id": 100,
+    "name": "NuevoUsuario100#LAS",
+    "elo_raram": 880,
+    "rank": 100,
+    "racha": 2,
+    "victorias": 13,
+    "derrotas": 7
+  },  {
+    "id": 101,
+    "name": "NuevoUsuario101#LAS",
+    "elo_raram": 874,
+    "rank": 101,
+    "racha": -2,
+    "victorias": 6,
+    "derrotas": 13
+  },
+  {
+    "id": 102,
+    "name": "NuevoUsuario102#LAS",
+    "elo_raram": 868,
+    "rank": 102,
+    "racha": 1,
+    "victorias": 11,
+    "derrotas": 8
+  },
+  {
+    "id": 103,
+    "name": "NuevoUsuario103#LAS",
+    "elo_raram": 862,
+    "rank": 103,
+    "racha": -3,
+    "victorias": 5,
+    "derrotas": 16
+  },
+  {
+    "id": 104,
+    "name": "NuevoUsuario104#LAS",
+    "elo_raram": 856,
+    "rank": 104,
+    "racha": 0,
+    "victorias": 8,
+    "derrotas": 12
+  },
+  {
+    "id": 105,
+    "name": "NuevoUsuario105#LAS",
+    "elo_raram": 850,
+    "rank": 105,
+    "racha": 3,
+    "victorias": 14,
+    "derrotas": 6
+  },
+  {
+    "id": 106,
+    "name": "NuevoUsuario106#LAS",
+    "elo_raram": 844,
+    "rank": 106,
+    "racha": -1,
+    "victorias": 9,
+    "derrotas": 9
+  },
+  {
+    "id": 107,
+    "name": "NuevoUsuario107#LAS",
+    "elo_raram": 838,
+    "rank": 107,
+    "racha": 2,
+    "victorias": 13,
+    "derrotas": 7
+  },
+  {
+    "id": 108,
+    "name": "NuevoUsuario108#LAS",
+    "elo_raram": 832,
+    "rank": 108,
+    "racha": -2,
+    "victorias": 6,
+    "derrotas": 13
+  },
+  {
+    "id": 109,
+    "name": "NuevoUsuario109#LAS",
+    "elo_raram": 826,
+    "rank": 109,
+    "racha": 1,
+    "victorias": 11,
+    "derrotas": 8
+  },
+  {
+    "id": 110,
+    "name": "NuevoUsuario110#LAS",
+    "elo_raram": 820,
+    "rank": 110,
+    "racha": -3,
+    "victorias": 5,
+    "derrotas": 16
+  },
+  {
+    "id": 111,
+    "name": "NuevoUsuario111#LAS",
+    "elo_raram": 814,
+    "rank": 111,
+    "racha": 0,
+    "victorias": 8,
+    "derrotas": 12
+  },
+  {
+    "id": 112,
+    "name": "NuevoUsuario112#LAS",
+    "elo_raram": 808,
+    "rank": 112,
+    "racha": 3,
+    "victorias": 14,
+    "derrotas": 6
+  },
+  {
+    "id": 113,
+    "name": "NuevoUsuario113#LAS",
+    "elo_raram": 802,
+    "rank": 113,
+    "racha": -1,
+    "victorias": 9,
+    "derrotas": 9
+  },
+  {
+    "id": 114,
+    "name": "NuevoUsuario114#LAS",
+    "elo_raram": 796,
+    "rank": 114,
+    "racha": 2,
+    "victorias": 13,
+    "derrotas": 7
+  },
+  {
+    "id": 115,
+    "name": "NuevoUsuario115#LAS",
+    "elo_raram": 790,
+    "rank": 115,
+    "racha": -2,
+    "victorias": 6,
+    "derrotas": 13
+  },
+  {
+    "id": 116,
+    "name": "NuevoUsuario116#LAS",
+    "elo_raram": 784,
+    "rank": 116,
+    "racha": 1,
+    "victorias": 11,
+    "derrotas": 8
+  },
+  {
+    "id": 117,
+    "name": "NuevoUsuario117#LAS",
+    "elo_raram": 778,
+    "rank": 117,
+    "racha": -3,
+    "victorias": 5,
+    "derrotas": 16
+  },
+  {
+    "id": 118,
+    "name": "NuevoUsuario118#LAS",
+    "elo_raram": 772,
+    "rank": 118,
+    "racha": 0,
+    "victorias": 8,
+    "derrotas": 12
+  },
+  {
+    "id": 119,
+    "name": "NuevoUsuario119#LAS",
+    "elo_raram": 766,
+    "rank": 119,
+    "racha": 3,
+    "victorias": 14,
+    "derrotas": 6
+  },
+  {
+    "id": 120,
+    "name": "NuevoUsuario120#LAS",
+    "elo_raram": 760,
+    "rank": 120,
+    "racha": -1,
+    "victorias": 9,
+    "derrotas": 9
+  },
+  {
+    "id": 121,
+    "name": "NuevoUsuario121#LAS",
+    "elo_raram": 754,
+    "rank": 121,
+    "racha": 2,
+    "victorias": 13,
+    "derrotas": 7
+  },
+  {
+    "id": 122,
+    "name": "NuevoUsuario122#LAS",
+    "elo_raram": 748,
+    "rank": 122,
+    "racha": -2,
+    "victorias": 6,
+    "derrotas": 13
+  },
+  {
+    "id": 123,
+    "name": "NuevoUsuario123#LAS",
+    "elo_raram": 742,
+    "rank": 123,
+    "racha": 1,
+    "victorias": 11,
+    "derrotas": 8
+  },
+  {
+    "id": 124,
+    "name": "NuevoUsuario124#LAS",
+    "elo_raram": 736,
+    "rank": 124,
+    "racha": -3,
+    "victorias": 5,
+    "derrotas": 16
+  },
+  {
+    "id": 125,
+    "name": "NuevoUsuario125#LAS",
+    "elo_raram": 730,
+    "rank": 125,
+    "racha": 0,
+    "victorias": 8,
+    "derrotas": 12
+  },
+  {
+    "id": 126,
+    "name": "NuevoUsuario126#LAS",
+    "elo_raram": 724,
+    "rank": 126,
+    "racha": 3,
+    "victorias": 14,
+    "derrotas": 6
+  },
+  {
+    "id": 127,
+    "name": "NuevoUsuario127#LAS",
+    "elo_raram": 718,
+    "rank": 127,
+    "racha": -1,
+    "victorias": 9,
+    "derrotas": 9
+  },
+  {
+    "id": 128,
+    "name": "NuevoUsuario128#LAS",
+    "elo_raram": 712,
+    "rank": 128,
+    "racha": 2,
+    "victorias": 13,
+    "derrotas": 7
+  },
+  {
+    "id": 129,
+    "name": "NuevoUsuario129#LAS",
+    "elo_raram": 706,
+    "rank": 129,
+    "racha": -2,
+    "victorias": 6,
+    "derrotas": 13
+  },
+  {
+    "id": 130,
+    "name": "NuevoUsuario130#LAS",
+    "elo_raram": 700,
+    "rank": 130,
+    "racha": 1,
+    "victorias": 11,
+    "derrotas": 8
+  },
+  {
+    "id": 131,
+    "name": "NuevoUsuario131#LAS",
+    "elo_raram": 694,
+    "rank": 131,
+    "racha": -3,
+    "victorias": 5,
+    "derrotas": 16
+  },
+  {
+    "id": 132,
+    "name": "NuevoUsuario132#LAS",
+    "elo_raram": 688,
+    "rank": 132,
+    "racha": 0,
+    "victorias": 8,
+    "derrotas": 12
+  },
+  {
+    "id": 133,
+    "name": "NuevoUsuario133#LAS",
+    "elo_raram": 682,
+    "rank": 133,
+    "racha": 3,
+    "victorias": 14,
+    "derrotas": 6
+  },
+  {
+    "id": 134,
+    "name": "NuevoUsuario134#LAS",
+    "elo_raram": 676,
+    "rank": 134,
+    "racha": -1,
+    "victorias": 9,
+    "derrotas": 9
+  },
+  {
+    "id": 135,
+    "name": "NuevoUsuario135#LAS",
+    "elo_raram": 670,
+    "rank": 135,
+    "racha": 2,
+    "victorias": 13,
+    "derrotas": 7
+  },
+  {
+    "id": 136,
+    "name": "NuevoUsuario136#LAS",
+    "elo_raram": 664,
+    "rank": 136,
+    "racha": -2,
+    "victorias": 6,
+    "derrotas": 13
+  },
+  {
+    "id": 137,
+    "name": "NuevoUsuario137#LAS",
+    "elo_raram": 658,
+    "rank": 137,
+    "racha": 1,
+    "victorias": 11,
+    "derrotas": 8
+  },
+  {
+    "id": 138,
+    "name": "NuevoUsuario138#LAS",
+    "elo_raram": 652,
+    "rank": 138,
+    "racha": -3,
+    "victorias": 5,
+    "derrotas": 16
+  },
+  {
+    "id": 139,
+    "name": "NuevoUsuario139#LAS",
+    "elo_raram": 646,
+    "rank": 139,
+    "racha": 0,
+    "victorias": 8,
+    "derrotas": 12
+  },
+  {
+    "id": 140,
+    "name": "NuevoUsuario140#LAS",
+    "elo_raram": 640,
+    "rank": 140,
+    "racha": 3,
+    "victorias": 14,
+    "derrotas": 6
+  },
+  {
+    "id": 141,
+    "name": "NuevoUsuario141#LAS",
+    "elo_raram": 634,
+    "rank": 141,
+    "racha": -1,
+    "victorias": 9,
+    "derrotas": 9
+  },
+  {
+    "id": 142,
+    "name": "NuevoUsuario142#LAS",
+    "elo_raram": 628,
+    "rank": 142,
+    "racha": 2,
+    "victorias": 13,
+    "derrotas": 7
+  },
+  {
+    "id": 143,
+    "name": "NuevoUsuario143#LAS",
+    "elo_raram": 622,
+    "rank": 143,
+    "racha": -2,
+    "victorias": 6,
+    "derrotas": 13
+  },
+  {
+    "id": 144,
+    "name": "NuevoUsuario144#LAS",
+    "elo_raram": 616,
+    "rank": 144,
+    "racha": 1,
+    "victorias": 11,
+    "derrotas": 8
+  },
+  {
+    "id": 145,
+    "name": "NuevoUsuario145#LAS",
+    "elo_raram": 610,
+    "rank": 145,
+    "racha": -3,
+    "victorias": 5,
+    "derrotas": 16
+  },
+  {
+    "id": 146,
+    "name": "NuevoUsuario146#LAS",
+    "elo_raram": 604,
+    "rank": 146,
+    "racha": 0,
+    "victorias": 8,
+    "derrotas": 12
+  },
+  {
+    "id": 147,
+    "name": "NuevoUsuario147#LAS",
+    "elo_raram": 598,
+    "rank": 147,
+    "racha": 3,
+    "victorias": 14,
+    "derrotas": 6
+  },
+  {
+    "id": 148,
+    "name": "NuevoUsuario148#LAS",
+    "elo_raram": 592,
+    "rank": 148,
+    "racha": -1,
+    "victorias": 9,
+    "derrotas": 9
+  },
+  {
+    "id": 149,
+    "name": "NuevoUsuario149#LAS",
+    "elo_raram": 586,
+    "rank": 149,
+    "racha": 2,
+    "victorias": 13,
+    "derrotas": 7
+  },
+  {
+    "id": 150,
+    "name": "NuevoUsuario150#LAS",
+    "elo_raram": 580,
+    "rank": 150,
+    "racha": -2,
+    "victorias": 6,
+    "derrotas": 13
+  },
+  {
+    "id": 151,
+    "name": "NuevoUsuario151#LAS",
+    "elo_raram": 574,
+    "rank": 151,
+    "racha": 1,
+    "victorias": 11,
+    "derrotas": 8
+  },
+  {
+    "id": 152,
+    "name": "NuevoUsuario152#LAS",
+    "elo_raram": 568,
+    "rank": 152,
+    "racha": -3,
+    "victorias": 5,
+    "derrotas": 16
+  },
+  {
+    "id": 153,
+    "name": "NuevoUsuario153#LAS",
+    "elo_raram": 562,
+    "rank": 153,
+    "racha": 0,
+    "victorias": 8,
+    "derrotas": 12
+  },
+  {
+    "id": 154,
+    "name": "NuevoUsuario154#LAS",
+    "elo_raram": 556,
+    "rank": 154,
+    "racha": 3,
+    "victorias": 14,
+    "derrotas": 6
+  },
+  {
+    "id": 155,
+    "name": "NuevoUsuario155#LAS",
+    "elo_raram": 550,
+    "rank": 155,
+    "racha": -1,
+    "victorias": 9,
+    "derrotas": 9
+  },
+  {
+    "id": 156,
+    "name": "NuevoUsuario156#LAS",
+    "elo_raram": 544,
+    "rank": 156,
+    "racha": 2,
+    "victorias": 13,
+    "derrotas": 7
+  },
+  {
+    "id": 157,
+    "name": "NuevoUsuario157#LAS",
+    "elo_raram": 538,
+    "rank": 157,
+    "racha": -2,
+    "victorias": 6,
+    "derrotas": 13
+  },
+  {
+    "id": 158,
+    "name": "NuevoUsuario158#LAS",
+    "elo_raram": 532,
+    "rank": 158,
+    "racha": 1,
+    "victorias": 11,
+    "derrotas": 8
+  },
+  {
+    "id": 159,
+    "name": "NuevoUsuario159#LAS",
+    "elo_raram": 526,
+    "rank": 159,
+    "racha": -3,
+    "victorias": 5,
+    "derrotas": 16
+  },
+  {
+    "id": 160,
+    "name": "NuevoUsuario160#LAS",
+    "elo_raram": 520,
+    "rank": 160,
+    "racha": 0,
+    "victorias": 8,
+    "derrotas": 12
+  },
+  {
+    "id": 161,
+    "name": "NuevoUsuario161#LAS",
+    "elo_raram": 514,
+    "rank": 161,
+    "racha": 3,
+    "victorias": 14,
+    "derrotas": 6
+  },
+  {
+    "id": 162,
+    "name": "NuevoUsuario162#LAS",
+    "elo_raram": 508,
+    "rank": 162,
+    "racha": -1,
+    "victorias": 9,
+    "derrotas": 9
+  },
+  {
+    "id": 163,
+    "name": "NuevoUsuario163#LAS",
+    "elo_raram": 502,
+    "rank": 163,
+    "racha": 2,
+    "victorias": 13,
+    "derrotas": 7
+  },
+  {
+    "id": 164,
+    "name": "NuevoUsuario164#LAS",
+    "elo_raram": 496,
+    "rank": 164,
+    "racha": -2,
+    "victorias": 6,
+    "derrotas": 13
+  },
+  {
+    "id": 165,
+    "name": "NuevoUsuario165#LAS",
+    "elo_raram": 490,
+    "rank": 165,
+    "racha": 1,
+    "victorias": 11,
+    "derrotas": 8
+  },
+  {
+    "id": 166,
+    "name": "NuevoUsuario166#LAS",
+    "elo_raram": 484,
+    "rank": 166,
+    "racha": -3,
+    "victorias": 5,
+    "derrotas": 16
+  },
+  {
+    "id": 167,
+    "name": "NuevoUsuario167#LAS",
+    "elo_raram": 478,
+    "rank": 167,
+    "racha": 0,
+    "victorias": 8,
+    "derrotas": 12
+  },
+  {
+    "id": 168,
+    "name": "NuevoUsuario168#LAS",
+    "elo_raram": 472,
+    "rank": 168,
+    "racha": 3,
+    "victorias": 14,
+    "derrotas": 6
+  },
+  {
+    "id": 169,
+    "name": "NuevoUsuario169#LAS",
+    "elo_raram": 466,
+    "rank": 169,
+    "racha": -1,
+    "victorias": 9,
+    "derrotas": 9
+  },
+  {
+    "id": 170,
+    "name": "NuevoUsuario170#LAS",
+    "elo_raram": 460,
+    "rank": 170,
+    "racha": 2,
+    "victorias": 13,
+    "derrotas": 7
+  },
+  {
+    "id": 171,
+    "name": "NuevoUsuario171#LAS",
+    "elo_raram": 454,
+    "rank": 171,
+    "racha": -2,
+    "victorias": 6,
+    "derrotas": 13
+  },
+  {
+    "id": 172,
+    "name": "NuevoUsuario172#LAS",
+    "elo_raram": 448,
+    "rank": 172,
+    "racha": 1,
+    "victorias": 11,
+    "derrotas": 8
+  },
+  {
+    "id": 173,
+    "name": "NuevoUsuario173#LAS",
+    "elo_raram": 442,
+    "rank": 173,
+    "racha": -3,
+    "victorias": 5,
+    "derrotas": 16
+  },
+  {
+    "id": 174,
+    "name": "NuevoUsuario174#LAS",
+    "elo_raram": 436,
+    "rank": 174,
+    "racha": 0,
+    "victorias": 8,
+    "derrotas": 12
+  },
+  {
+    "id": 175,
+    "name": "NuevoUsuario175#LAS",
+    "elo_raram": 430,
+    "rank": 175,
+    "racha": 3,
+    "victorias": 14,
+    "derrotas": 6
+  },
+  {
+    "id": 176,
+    "name": "NuevoUsuario176#LAS",
+    "elo_raram": 424,
+    "rank": 176,
+    "racha": -1,
+    "victorias": 9,
+    "derrotas": 9
+  },
+  {
+    "id": 177,
+    "name": "NuevoUsuario177#LAS",
+    "elo_raram": 418,
+    "rank": 177,
+    "racha": 2,
+    "victorias": 13,
+    "derrotas": 7
+  },
+  {
+    "id": 178,
+    "name": "NuevoUsuario178#LAS",
+    "elo_raram": 412,
+    "rank": 178,
+    "racha": -2,
+    "victorias": 6,
+    "derrotas": 13
+  },
+  {
+    "id": 179,
+    "name": "NuevoUsuario179#LAS",
+    "elo_raram": 406,
+    "rank": 179,
+    "racha": 1,
+    "victorias": 11,
+    "derrotas": 8
+  },
+  {
+    "id": 180,
+    "name": "NuevoUsuario180#LAS",
+    "elo_raram": 400,
+    "rank": 180,
+    "racha": -3,
+    "victorias": 5,
+    "derrotas": 16
+  },
+  {
+    "id": 181,
+    "name": "NuevoUsuario181#LAS",
+    "elo_raram": 394,
+    "rank": 181,
+    "racha": 0,
+    "victorias": 8,
+    "derrotas": 12
+  },
+  {
+    "id": 182,
+    "name": "NuevoUsuario182#LAS",
+    "elo_raram": 388,
+    "rank": 182,
+    "racha": 3,
+    "victorias": 14,
+    "derrotas": 6
+  },
+  {
+    "id": 183,
+    "name": "NuevoUsuario183#LAS",
+    "elo_raram": 382,
+    "rank": 183,
+    "racha": -1,
+    "victorias": 9,
+    "derrotas": 9
+  },
+  {
+    "id": 184,
+    "name": "NuevoUsuario184#LAS",
+    "elo_raram": 376,
+    "rank": 184,
+    "racha": 2,
+    "victorias": 13,
+    "derrotas": 7
+  },
+  {
+    "id": 185,
+    "name": "NuevoUsuario185#LAS",
+    "elo_raram": 370,
+    "rank": 185,
+    "racha": -2,
+    "victorias": 6,
+    "derrotas": 13
+  },
+  {
+    "id": 186,
+    "name": "NuevoUsuario186#LAS",
+    "elo_raram": 364,
+    "rank": 186,
+    "racha": 1,
+    "victorias": 11,
+    "derrotas": 8
+  },
+  {
+    "id": 187,
+    "name": "NuevoUsuario187#LAS",
+    "elo_raram": 358,
+    "rank": 187,
+    "racha": -3,
+    "victorias": 5,
+    "derrotas": 16
+  },
+  {
+    "id": 188,
+    "name": "NuevoUsuario188#LAS",
+    "elo_raram": 352,
+    "rank": 188,
+    "racha": 0,
+    "victorias": 8,
+    "derrotas": 12
+  },
+  {
+    "id": 189,
+    "name": "NuevoUsuario189#LAS",
+    "elo_raram": 346,
+    "rank": 189,
+    "racha": 3,
+    "victorias": 14,
+    "derrotas": 6
+  },
+  {
+    "id": 190,
+    "name": "NuevoUsuario190#LAS",
+    "elo_raram": 340,
+    "rank": 190,
+    "racha": -1,
+    "victorias": 9,
+    "derrotas": 9
+  },
+  {
+    "id": 191,
+    "name": "NuevoUsuario191#LAS",
+    "elo_raram": 334,
+    "rank": 191,
+    "racha": 2,
+    "victorias": 13,
+    "derrotas": 7
+  },
+  {
+    "id": 192,
+    "name": "NuevoUsuario192#LAS",
+    "elo_raram": 328,
+    "rank": 192,
+    "racha": -2,
+    "victorias": 6,
+    "derrotas": 13
+  },
+  {
+    "id": 193,
+    "name": "NuevoUsuario193#LAS",
+    "elo_raram": 322,
+    "rank": 193,
+    "racha": 1,
+    "victorias": 11,
+    "derrotas": 8
+  },
+  {
+    "id": 194,
+    "name": "NuevoUsuario194#LAS",
+    "elo_raram": 316,
+    "rank": 194,
+    "racha": -3,
+    "victorias": 5,
+    "derrotas": 16
+  },
+  {
+    "id": 195,
+    "name": "NuevoUsuario195#LAS",
+    "elo_raram": 310,
+    "rank": 195,
+    "racha": 0,
+    "victorias": 8,
+    "derrotas": 12
+  },
+  {
+    "id": 196,
+    "name": "NuevoUsuario196#LAS",
+    "elo_raram": 304,
+    "rank": 196,
+    "racha": 3,
+    "victorias": 14,
+    "derrotas": 6
+  },
+  {
+    "id": 197,
+    "name": "NuevoUsuario197#LAS",
+    "elo_raram": 298,
+    "rank": 197,
+    "racha": -1,
+    "victorias": 9,
+    "derrotas": 9
+  },
+  {
+    "id": 198,
+    "name": "NuevoUsuario198#LAS",
+    "elo_raram": 292,
+    "rank": 198,
+    "racha": 2,
+    "victorias": 13,
+    "derrotas": 7
+  },
+  {
+    "id": 199,
+    "name": "NuevoUsuario199#LAS",
+    "elo_raram": 286,
+    "rank": 199,
+    "racha": -2,
+    "victorias": 6,
+    "derrotas": 13
+  },
+  {
+    "id": 200,
+    "name": "NuevoUsuario200#LAS",
+    "elo_raram": 280,
+    "rank": 200,
+    "racha": 1,
+    "victorias": 11,
+    "derrotas": 8
+  }
+]

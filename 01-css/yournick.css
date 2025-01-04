@@ -1,0 +1,176 @@
+/*?----------------------------------------------------------------------------------------------------*/
+
+/** Inicio yournick */
+
+.body-yournick {
+    position: absolute;
+    top: 2.4%;
+    right: 6.6%;
+}
+
+.body-yournick-icon {
+    font-size: 5rem;
+    color: #ddd;
+    cursor: pointer;
+}
+
+.body-yournick-container {
+    display: none;
+    position: absolute;
+    width: 100%;
+    height: 100vh;
+    background-color: #0000009c;
+    z-index: 9999;
+}
+
+.body-yournick-div {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 50rem;
+    height: max-content;
+    background-color: #1A1742;
+    border-radius: 3rem;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 2rem;
+}
+
+.body-yournick-span1 {
+    font-size: 2rem;
+    font-family: "Sixtyfour", impact;
+    color: #0385FF;
+}
+
+.body-yournick-span2 {
+    font-size: 2.16rem;
+    font-family: sans-serif;
+    letter-spacing: 0.1rem;
+    color: #ddd;
+    margin-top: 1rem;
+}
+
+.body-yournick-span3 {
+    font-size: 2.16rem;
+    font-family: sans-serif;
+    letter-spacing: 0.1rem;
+    color: #ddd;
+    margin-top: 1rem;
+}
+
+.body-yournick-span3-color {
+    color: #389EFF;
+}
+
+.body-yournick-input {
+    width: 60%;
+    height: 4rem;
+    font-size: 2rem;
+    color: #000;
+    font-family: sans-serif;
+    background-color: #ddd;
+    border: 0.2rem #ddd;
+    border-radius: 1rem;
+    padding-left: 1.5rem;
+    outline: none;
+    margin-top: 2rem;
+}
+
+.body-yournick-buttons {
+    width: 100%;
+    height: 5rem;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 1rem;
+}
+
+.body-yournick-button1 {
+    width: 30%;
+    height: 3rem;
+    font-size: 2.2rem;
+    font-family: impact, sans-serif;
+    letter-spacing: 0.2rem;
+    color: #000;
+    background-color: #0385FF;
+    border: 0.2rem #0385FF;
+    border-radius: 1rem;
+    outline: none;
+    cursor: pointer;
+    padding-top: 0.2rem;
+    transition: all 0.1s;
+}
+
+.body-yournick-button2 {
+    width: 30%;
+    height: 3rem;
+    font-size: 2.2rem;
+    font-family: impact, sans-serif;
+    letter-spacing: 0.2rem;
+    color: #000;
+    background-color: #0385FF;
+    border: 0.2rem #0385FF;
+    border-radius: 1rem;
+    outline: none;
+    cursor: pointer;
+    padding-top: 0.2rem;
+    transition: all 0.1s;
+}
+
+.body-yournick-button1:hover,
+.body-yournick-button2:hover {
+    transform: scale(1.05);
+}
+
+.yournick-resaltado {
+    color: #e3f15b;
+}
+
+/** Fin yournick */
+
+/** Inicio responsive */
+
+@media screen and (max-width: 1450px) {
+    .body-yournick {
+        right: 9.6%;
+    }
+}
+
+@media screen and (max-width: 550px) {
+    .body-yournick-div {
+        width: 40rem;
+    }
+
+    .body-yournick-span1 {
+        font-size: 1.8rem;
+    }
+
+    .body-yournick-span2 {
+        font-size: 1.96rem;
+    }
+
+    .body-yournick-span3 {
+        font-size: 1.6rem;
+    }
+
+    .body-yournick-button1 {
+        width: 35%;
+        font-size: 2rem;
+    }
+
+    .body-yournick-button2 {
+        width: 35%;
+        font-size: 2rem;
+    }
+
+    .body-yournick-input {
+        font-size: 1.8rem;
+    }
+}
+
+/** Fin responsive */
+
+/*?----------------------------------------------------------------------------------------------------*/

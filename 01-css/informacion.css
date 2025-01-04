@@ -1,0 +1,70 @@
+/*?----------------------------------------------------------------------------------------------------*/
+
+/** Inicio informacion */
+
+.informacion-containers {
+    display: none;
+    align-items: center;
+    flex-direction: column;
+    width: 88%;
+    margin: auto;
+    margin-top: 1.8rem;
+    overflow-y: auto;
+    height: 74.8rem;
+    background-color: #1A1742;
+    background: linear-gradient(180deg, #0F0C34 10%, #1A1742 50%, #0F0C34 90%);
+    border-radius: 3rem;
+}
+
+.informacion-container-div {
+    width: 100%;
+}
+
+.informacion-div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 100%;
+    text-align: center;
+}
+
+.informacion-titulo {
+    color: #389EFF;
+    font-family: "Sixtyfour", impact;
+    font-size: 1.6rem;
+    margin-top: 1.5rem;
+}
+
+.informacion-desc {
+    color: #EFF1FF;
+    font-size: 1.7rem;
+    max-width: 50%;
+    margin-bottom: 1rem;
+}
+
+.informacion-desc-especial {
+    margin-bottom: 0rem;
+}
+
+.informacion-desc-10-especial {
+    margin-bottom: 1.5rem;
+}
+
+.informacion-desc-1-a {
+    text-decoration: none;
+    color: #98cdff;
+    transition: all 300ms ease-in-out;
+}
+
+.informacion-desc-1-a:hover {
+    color: #389EFF;
+}
+
+.informacion-bold-text {
+    color: #98cdff;
+}
+
+/** Fin informacion */
+
+/*?----------------------------------------------------------------------------------------------------*/

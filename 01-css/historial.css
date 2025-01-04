@@ -1,0 +1,17 @@
+/*?----------------------------------------------------------------------------------------------------*/
+
+/** Inicio historial */
+
+.historial-containers {
+    display: none;
+    justify-content: center;
+    margin-top: 32rem;
+    font-family: sans-serif;
+    font-size: 3rem;
+    color: #046BCC;
+    letter-spacing: 1rem;
+}
+
+/** Fin historial */
+
+/*?----------------------------------------------------------------------------------------------------*/

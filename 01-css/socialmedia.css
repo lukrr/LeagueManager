@@ -1,0 +1,103 @@
+/*?----------------------------------------------------------------------------------------------------*/
+
+/** Inicio socialmedia */
+
+.socialmedia-container {
+    position: fixed;
+    top: 0;
+    right: 0;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
+.socialmedia-div {
+    background-color: #1A1742;
+    width: 4rem;
+    height: 30rem;
+    border-top-left-radius: 2rem;
+    border-bottom-left-radius: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 300ms ease-in-out;
+    position: relative;
+    overflow: hidden;
+}
+
+.socialmedia-div:hover {
+    width: 10rem;
+    /* Socialmedia se expande al pasar el mouse */
+}
+
+.socialmedia-arrow {
+    font-size: 2.5rem;
+    color: #0385FF;
+    user-select: none;
+    transform: rotate(180deg);
+    transition: all 300ms ease-in-out;
+}
+
+.socialmedia-words {
+    height: 100%;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    animation: none;
+}
+
+.socialmedia-div:hover .socialmedia-words {
+    opacity: 1;
+}
+
+.socialmedia-div:hover .socialmedia-arrow {
+    transform: translateX(8rem) rotate(180deg);
+}
+
+.socialmedia-words i {
+    font-size: 3.1rem;
+    color: #0385FF;
+    cursor: pointer;
+    user-select: none;
+    transition: all 300ms ease-in-out;
+}
+
+.socialmedia-words-div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 1rem;
+}
+
+.socialmedia-words-div1 {
+    margin-top: 3rem;
+}
+
+.socialmedia-words-p {
+    font-family: sans-serif;
+    font-size: 1rem;
+    text-decoration: none;
+    color: #0385FF;
+    cursor: default;
+    user-select: none;
+    margin-top: 0.5rem;
+    opacity: 0;
+    transition: all 300ms ease-in-out;
+}
+
+.socialmedia-words-div-a i:hover {
+    color: #f6f7ff;
+}
+
+.socialmedia-words-div a:hover+.socialmedia-words-p {
+    opacity: 1;
+    color: #f6f7ff;
+}
+
+/** Fin socialmedia */
+
+/*?----------------------------------------------------------------------------------------------------*/

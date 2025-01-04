@@ -1,0 +1,30 @@
+/*?----------------------------------------------------------------------------------------------------*/
+
+/** Inicio reload */
+
+.body-reload {
+    position: absolute;
+    top: 2.3%;
+    right: 1.3%;
+}
+
+.body-reload-icon {
+    font-size: 5rem;
+    color: #ddd;
+    animation: rotate 25s linear infinite;
+    cursor: pointer;
+}
+
+@keyframes rotate {
+    from {
+        transform: rotate(0deg);
+    }
+
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+/** Fin reload */
+
+/*?----------------------------------------------------------------------------------------------------*/
